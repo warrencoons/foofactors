@@ -4,6 +4,7 @@ library(tidyverse) #system of packages for data manipulation, exploration, and v
 library(fs) #?
 
 
-create_package("/Users/warrencoons/Desktop/R/Epi/building_package/to/foofactors")
+create_package("/Users/warrencoons/Desktop/R/Epi/building_package/foofactors")
 
-getwd()
+use_git()  
+y
